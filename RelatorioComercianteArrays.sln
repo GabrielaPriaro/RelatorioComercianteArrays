@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelatorioComercianteArrays", "RelatorioComercianteArrays\RelatorioComercianteArrays.csproj", "{541643D3-2838-4B0C-8602-CE0A533A26C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{541643D3-2838-4B0C-8602-CE0A533A26C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541643D3-2838-4B0C-8602-CE0A533A26C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541643D3-2838-4B0C-8602-CE0A533A26C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541643D3-2838-4B0C-8602-CE0A533A26C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C655A795-3171-4D45-83B0-AC9E4CBFD4FF}
+	EndGlobalSection
+EndGlobal
